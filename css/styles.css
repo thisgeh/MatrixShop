@@ -1,0 +1,20 @@
+body {
+    font-family: "Heebo", sans-serif;
+}
+
+:root{
+    --light-grey: #F4F5F9;
+}
+
+.grey{
+    background-color: var(--light-grey);
+}
+
+h1{
+    color: #5e5e5f;
+}
+
+h5{
+    color: #5e5e5f;
+}
+
